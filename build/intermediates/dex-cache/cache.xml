@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_e48d65ba07462155572e2f1e0ef94e026e9a577e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_318a7f0c9e99e7f41d2e09b81665f88a70ed4900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_ff739d91089ee740ef6da6ae6a0a04f8f22d76b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_8622445b3a07855ad4b21794cfbeaf6354e7ec0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d32422bb2509260a6c6555e10f1046d53075e87a">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_854a31bcdcc88676d12cd06e20280d07f7c54152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_8f077c3fd39214c76bacf6384d63f8529855fbbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8429f22492020ae04e1f128f6772041b4d40e229">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/instant-run_8d3536b0214519f0d22e062a79bd525c043abc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_4166436de119b9bfc4e38bed113d4bb2323e3519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_bf21841eb741de355ac6a9f7926c915fadf63619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/okio-1.11.0_23592c20f4a91db9b641635d423253b1eb496f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_df241cd82621cd103bb833e905aff291ff917d54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/gson-2.7_8d5e1882beaae1424be7c57f956cf6d41f8d9ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_15e52859b1c4888c6d7151de09bcc43b93f561d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_6db62e82cc55607d5fcb6b9298a5620c33206872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_147707e82fe0284b0f38d33091df0cee0ef8397b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_d66d6b4cb169909f72fd184089c769d2939b5f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_125c2214c4b7651f32d63a6cb766e68cc190ba7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_e60ce9beac5f9347c1fef45b416a0d7c9f4425fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_98722329955936ee6ba47a00c7fb57d019f3d9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_0530c5cc61c02fbb1c9da3f64b422cab683bb590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_5650a7459c35eccdce90776e07f4e1f43844937e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kenp/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kenp/Labs/TheNewYorkTimes/app/build/intermediates/pre-dexed/debug/glide-3.7.0_8083f069673879ce4d58c77b6bb4b0736f4bf6a9.jar" />
+    </item>
+
+</items>
